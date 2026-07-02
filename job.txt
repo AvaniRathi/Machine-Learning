@@ -1,0 +1,20 @@
+Machine Learning Intern
+
+Requirements
+
+Python
+Machine Learning
+TensorFlow
+PyTorch
+SQL
+Git
+Docker
+Communication
+Problem Solving
+Deep Learning
+
+Preferred
+
+AWS
+Azure
+LangChain
